@@ -110,9 +110,6 @@ def calculate_heuristic(current_state, goal_state, heuristic):
 
     return 0  # Default to H0
 
-
-
-
 # ---------------------------------------------------------------------------------
 
 # Generates successor states for a given state
@@ -197,7 +194,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Blocksworld Solver")
     parser.add_argument("filename", help="Input problem file")
     parser.add_argument("-H", "--heuristic", choices=["H0", "H1", "H2"], default="H0", help="Heuristic function to use")
-    parser.add_argument("-MAX_ITERS", type=int, default=1000000, help="Maximum number of iterations")
+    parser.add_argument("-MAX_ITERS", type=int, default=100000, help="Maximum number of iterations")
     return parser.parse_args()
 
 if __name__ == "__main__":
