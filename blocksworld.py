@@ -89,15 +89,35 @@ def calculate_heuristic(current_state, goal_state, heuristic):
     if heuristic == "H0":
         return 0  # H0, trivial
 
+    if heuristic == "H1":
+        # Initialize penalty score
+        penalty_score = 0
+
+        # Step 1: Number of blocks outside stack 0
+        for i in range(1, len(current_state.stacks)):  # Start from index 1 to skip stack 0
+            penalty_score += len(current_state.stacks[i])  # Penalize each block outside stack 0 with 1 unit
+
+        # Step 2: Number of blocks in stack 0 in a position different than in the goal state
+        min_stack_size = min(len(current_state.stacks[0]), len(goal_state.stacks[0]))
+        for i in range(min_stack_size):
+            if current_state.stacks[0][i] != goal_state.stacks[0][i]:
+                penalty_score += 1  # Penalize each block in stack 0 in the wrong position with 1 unit
+
+        # If goal state has fewer blocks in stack 0, penalize the extra blocks in current state
+        penalty_score += abs(len(current_state.stacks[0]) - len(goal_state.stacks[0]))
+
+        return penalty_score
+
     return 0  # Default to H0
+
+
 
 
 # ---------------------------------------------------------------------------------
 
 # Generates successor states for a given state
 def successors(state):
-    # Get current state's stacks
-    stacks = state.stacks
+    stacks = state.stacks # Get current state's stacks
     num_stacks = len(stacks)
 
     # Initialize list to store successor states
@@ -142,24 +162,16 @@ def astar_search(initial_state, goal_state, heuristic, max_iters):
         current_state = current_node.state
 
         iterations += 1
-        # print("Iteration:", iterations)  # Debugging output
 
         if current_state == goal_state:
-            # print("Goal state reached!")  # Debugging output
             print_solution_path(current_node)
             print(f"statistics: method Astar planlen {current_node.depth} iters {iterations} maxq {max_queue_size}")
             return
 
         visited.add(str(current_state))  # Store state as string for hashing
-        # print("Adding state to visited set:", current_state)  # Debugging output
 
         # Generate successor states
         successor_states = successors(current_state)
-        # print("Generating successors for state:")  # Debugging output
-        # print_state(current_state)  # Debugging output
-        # print("Successor states:")  # Debugging output
-        # for successor_state in successor_states:
-            # print_state(successor_state)  # Debugging output
 
         for successor_state in successor_states:
             if str(successor_state) not in visited:
@@ -171,11 +183,9 @@ def astar_search(initial_state, goal_state, heuristic, max_iters):
                 
         # Update max queue size
         max_queue_size = max(max_queue_size, open_set.qsize())
-        # print("Max queue size:", max_queue_size)  # Debugging output
         
         # Check for max iterations
         if iterations >= max_iters:
-            # print("Maximum number of iterations reached.")  # Debugging output
             print("statistics: method Astar planlen FAILED iters", iterations, "maxq", max_queue_size)
             return
 
