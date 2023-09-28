@@ -1,4 +1,4 @@
-# %Replace this with your first and last name%
+# Matthew Barry
 
 # Course Setup 
 
