@@ -7,7 +7,7 @@ file "probB03.bwp" located within the probs directory. Additionally, there are a
 can be included when typing the command line argument. These include:
 
     -H HX: this flag specifies the heuristic that the A* search algorithm should run with, and can be any of the
-     following: H0, H1. The default heuristic used if none is specified is H0.
+     following: H0, H1, H2. The default heuristic used if none is specified is H2, as this is my best performing.
     
     -MAX_ITERS ####..#: this flag specifies the maximum number of iterations that the blocksworld program will tolerate before terminating. In my environment, I run it with either 100000 or 1000000, depending on how intensive or complex the problem is. The default number of iterations used if none is specified for this flag is 1,000,000.
 

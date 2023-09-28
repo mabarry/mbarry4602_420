@@ -1,0 +1,30 @@
+
+Move 0, Pathcost=0, Heuristic=20, f(n)=20
+D E H I J
+G
+B
+A C
+F
+>>>>>>>>>>
+Move 1, Pathcost=1, Heuristic=19, f(n)=20
+D E H I J F
+G
+B
+A C
+
+>>>>>>>>>>
+Move 2, Pathcost=2, Heuristic=18, f(n)=20
+D E H I J F
+G B
+
+A C
+
+>>>>>>>>>>
+Move 3, Pathcost=3, Heuristic=18, f(n)=21
+D E H I J F
+G B
+C
+A
+
+>>>>>>>>>>
+statistics: probB03.bwp method Astar planlen 3 iter 48 maxq 551

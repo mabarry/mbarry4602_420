@@ -1,0 +1,80 @@
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=773
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=774
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=775
+iter=100, depth=4, pathcost=4, heuristic=24, score=28, children=12, Qsize=776
+iter=100, depth=4, pathcost=4, heuristic=24, score=28, children=12, Qsize=777
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=778
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=779
+iter=100, depth=4, pathcost=4, heuristic=25, score=29, children=12, Qsize=780
+iter=200, depth=2, pathcost=2, heuristic=27, score=29, children=20, Qsize=1616
+iter=200, depth=2, pathcost=2, heuristic=27, score=29, children=20, Qsize=1617
+iter=200, depth=2, pathcost=2, heuristic=26, score=28, children=20, Qsize=1618
+iter=200, depth=2, pathcost=2, heuristic=27, score=29, children=20, Qsize=1619
+...
+iter=8000, depth=7, pathcost=7, heuristic=24, score=31, children=8, Qsize=63775
+iter=8000, depth=7, pathcost=7, heuristic=24, score=31, children=8, Qsize=63776
+
+Move 0, Pathcost=0, Heuristic=25, f(n)=25
+A D F
+B J
+G
+
+C E H I
+>>>>>>>>>>
+Move 1, Pathcost=1, Heuristic=24, f(n)=25
+A D F J
+B
+G
+
+C E H I
+>>>>>>>>>>
+Move 2, Pathcost=2, Heuristic=25, f(n)=27
+A D F J
+B I
+G
+
+C E H
+>>>>>>>>>>
+Move 3, Pathcost=3, Heuristic=24, f(n)=27
+A D F J
+B I H
+G
+
+C E
+>>>>>>>>>>
+Move 4, Pathcost=4, Heuristic=23, f(n)=27
+A D F J E
+B I H
+G
+
+C
+>>>>>>>>>>
+Move 5, Pathcost=5, Heuristic=22, f(n)=27
+A D F J E G
+B I H
+
+
+C
+>>>>>>>>>>
+Move 6, Pathcost=6, Heuristic=23, f(n)=29
+A D F J E G
+B I
+H
+
+C
+>>>>>>>>>>
+Move 7, Pathcost=7, Heuristic=22, f(n)=29
+A D F J E G
+B
+H I
+
+C
+>>>>>>>>>>
+Move 8, Pathcost=8, Heuristic=21, f(n)=29
+A D F J E G
+
+H I
+
+C B
+>>>>>>>>>>
+statistics: probB08.bwp method Astar planlen 8 iter 8161 maxq 64974

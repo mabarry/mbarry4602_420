@@ -1,0 +1,73 @@
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1154
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1155
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1156
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1157
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1158
+iter=100, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=1159
+iter=200, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=2250
+iter=200, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=2251
+iter=200, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=2252
+iter=200, depth=4, pathcost=4, heuristic=17, score=21, children=20, Qsize=2253
+iter=200, depth=4, pathcost=4, heuristic=16, score=20, children=20, Qsize=2254
+iter=200, depth=4, pathcost=4, heuristic=16, score=20, children=20, Qsize=2255
+...
+iter=37700, depth=7, pathcost=7, heuristic=16, score=23, children=12, Qsize=297653
+iter=37700, depth=7, pathcost=7, heuristic=16, score=23, children=12, Qsize=297654
+
+Move 0, Pathcost=0, Heuristic=17, f(n)=17
+C I J
+D E H
+F G
+A B
+
+>>>>>>>>>>
+Move 1, Pathcost=1, Heuristic=16, f(n)=17
+C I J
+D E H
+F G B
+A
+
+>>>>>>>>>>
+Move 2, Pathcost=2, Heuristic=16, f(n)=18
+C I J A
+D E H
+F G B
+
+
+>>>>>>>>>>
+Move 3, Pathcost=3, Heuristic=16, f(n)=19
+C I J A
+D E
+F G B
+H
+
+>>>>>>>>>>
+Move 4, Pathcost=4, Heuristic=16, f(n)=20
+C I J A
+D
+F G B
+H E
+
+>>>>>>>>>>
+Move 5, Pathcost=5, Heuristic=16, f(n)=21
+C I J A
+
+F G B
+H E
+D
+>>>>>>>>>>
+Move 6, Pathcost=6, Heuristic=15, f(n)=21
+C I J
+
+F G B
+H E
+D A
+>>>>>>>>>>
+Move 7, Pathcost=7, Heuristic=15, f(n)=22
+C I J
+E
+F G B
+H
+D A
+>>>>>>>>>>
+statistics: probB07.bwp method Astar planlen 7 iter 37770 maxq 298163
