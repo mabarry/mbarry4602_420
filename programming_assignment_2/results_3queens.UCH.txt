@@ -1,0 +1,5305 @@
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { Q11: 0 Q12: 0 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q11=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q12=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: 0 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: 0 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: 0 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q21=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q21=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q21: -1 Q22: -1 Q23: 1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q11=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q12=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 0 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 0 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 0 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q21=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q21=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 1 Q13: -1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q13=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q21=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q21=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 0 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 0 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q21=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q32=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: -1 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q33=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: 1 Q22: -1 Q23: -1 Q31: -1 Q32: -1 Q33: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q21=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q22=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: -1 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: 0 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q23=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q21: -1 Q22: -1 Q23: 0 Q31: 0 Q32: 0 Q33: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+-------------
+No solution found (UNSATISFIABLE)

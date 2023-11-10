@@ -1,0 +1,70 @@
+(or SAR SAG SAB)
+(or WAR WAG WAB)
+(or NTR NTG NTB)
+(or TR TG TB)
+(or QR QG QB)
+(or NSWR NSWG NSWB)
+(or VR VG VB)
+# SAR, SAG, and SAB are mutually exclusive
+(or (not SAR) (not SAG))
+(or (not SAR) (not SAB))
+(or (not SAG) (not SAB))
+
+# WAR, WAG, and WAB are mutually exclusive
+(or (not WAR) (not WAG))
+(or (not WAR) (not WAB))
+(or (not WAG) (not WAB))
+
+# NTR, NTG, and NTB are mutually exclusive
+(or (not NTR) (not NTG))
+(or (not NTR) (not NTB))
+(or (not NTG) (not NTB))
+
+# QR, QG, and QB are mutually exclusive
+(or (not QR) (not QG))
+(or (not QR) (not QB))
+(or (not QG) (not QB))
+
+# NSWR, NSWG, and NSWB are mutually exclusive
+(or (not NSWR) (not NSWG))
+(or (not NSWR) (not NSWB))
+(or (not NSWG) (not NSWB))
+
+# VR, VG, and VB are mutually exclusive
+(or (not VR) (not VG))
+(or (not VR) (not VB))
+(or (not VG) (not VB))
+
+(or (not TR) (not TG))
+(or (not TR) (not TB))
+(or (not TG) (not TB))
+
+(or (not SAR) (not WAR))
+(or (not SAR) (not NTR))
+(or (not SAR) (not QR))
+(or (not SAR) (not NSWR))
+(or (not SAR) (not VR))
+(or (not WAR) (not NTR))
+(or (not NTR) (not QR))
+(or (not QR) (not NSWR))
+(or (not NSWR) (not VR))
+
+(or (not SAB) (not WAB))
+(or (not SAB) (not NTB))
+(or (not SAB) (not QB))
+(or (not SAB) (not NSWB))
+(or (not SAB) (not VB))
+(or (not WAB) (not NTB))
+(or (not NTB) (not QB))
+(or (not QB) (not NSWB))
+(or (not NSWB) (not VB))
+
+(or (not SAG) (not WAG))
+(or (not SAG) (not NTG))
+(or (not SAG) (not QG))
+(or (not SAG) (not NSWG))
+(or (not SAG) (not VG))
+(or (not WAG) (not NTG))
+(or (not NTG) (not QG))
+(or (not QG) (not NSWG))
+(or (not NSWG) (not VG))

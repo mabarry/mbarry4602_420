@@ -1,0 +1,235 @@
+# (or SAR SAG SAB)
+
+SAR SAG SAB
+
+# (or WAR WAG WAB)
+
+WAR WAG WAB
+
+# (or NTR NTG NTB)
+
+NTR NTG NTB
+
+# (or TR TG TB)
+
+TR TG TB
+
+# (or QR QG QB)
+
+QR QG QB
+
+# (or NSWR NSWG NSWB)
+
+NSWR NSWG NSWB
+
+# (or VR VG VB)
+
+VR VG VB
+
+# # SAR, SAG, and SAB are mutually exclusive
+# (or (not SAR) (not SAG))
+
+-SAR -SAG
+
+# (or (not SAR) (not SAB))
+
+-SAR -SAB
+
+# (or (not SAG) (not SAB))
+
+-SAG -SAB
+
+# 
+# # WAR, WAG, and WAB are mutually exclusive
+# (or (not WAR) (not WAG))
+
+-WAR -WAG
+
+# (or (not WAR) (not WAB))
+
+-WAR -WAB
+
+# (or (not WAG) (not WAB))
+
+-WAG -WAB
+
+# 
+# # NTR, NTG, and NTB are mutually exclusive
+# (or (not NTR) (not NTG))
+
+-NTR -NTG
+
+# (or (not NTR) (not NTB))
+
+-NTR -NTB
+
+# (or (not NTG) (not NTB))
+
+-NTG -NTB
+
+# 
+# # QR, QG, and QB are mutually exclusive
+# (or (not QR) (not QG))
+
+-QR -QG
+
+# (or (not QR) (not QB))
+
+-QR -QB
+
+# (or (not QG) (not QB))
+
+-QG -QB
+
+# 
+# # NSWR, NSWG, and NSWB are mutually exclusive
+# (or (not NSWR) (not NSWG))
+
+-NSWR -NSWG
+
+# (or (not NSWR) (not NSWB))
+
+-NSWR -NSWB
+
+# (or (not NSWG) (not NSWB))
+
+-NSWG -NSWB
+
+# 
+# # VR, VG, and VB are mutually exclusive
+# (or (not VR) (not VG))
+
+-VR -VG
+
+# (or (not VR) (not VB))
+
+-VR -VB
+
+# (or (not VG) (not VB))
+
+-VG -VB
+
+# 
+# (or (not TR) (not TG))
+
+-TR -TG
+
+# (or (not TR) (not TB))
+
+-TR -TB
+
+# (or (not TG) (not TB))
+
+-TG -TB
+
+# 
+# (or (not SAR) (not WAR))
+
+-SAR -WAR
+
+# (or (not SAR) (not NTR))
+
+-SAR -NTR
+
+# (or (not SAR) (not QR))
+
+-SAR -QR
+
+# (or (not SAR) (not NSWR))
+
+-SAR -NSWR
+
+# (or (not SAR) (not VR))
+
+-SAR -VR
+
+# (or (not WAR) (not NTR))
+
+-WAR -NTR
+
+# (or (not NTR) (not QR))
+
+-NTR -QR
+
+# (or (not QR) (not NSWR))
+
+-QR -NSWR
+
+# (or (not NSWR) (not VR))
+
+-NSWR -VR
+
+# 
+# (or (not SAB) (not WAB))
+
+-SAB -WAB
+
+# (or (not SAB) (not NTB))
+
+-SAB -NTB
+
+# (or (not SAB) (not QB))
+
+-SAB -QB
+
+# (or (not SAB) (not NSWB))
+
+-SAB -NSWB
+
+# (or (not SAB) (not VB))
+
+-SAB -VB
+
+# (or (not WAB) (not NTB))
+
+-WAB -NTB
+
+# (or (not NTB) (not QB))
+
+-NTB -QB
+
+# (or (not QB) (not NSWB))
+
+-QB -NSWB
+
+# (or (not NSWB) (not VB))
+
+-NSWB -VB
+
+# 
+# (or (not SAG) (not WAG))
+
+-SAG -WAG
+
+# (or (not SAG) (not NTG))
+
+-SAG -NTG
+
+# (or (not SAG) (not QG))
+
+-SAG -QG
+
+# (or (not SAG) (not NSWG))
+
+-SAG -NSWG
+
+# (or (not SAG) (not VG))
+
+-SAG -VG
+
+# (or (not WAG) (not NTG))
+
+-WAG -NTG
+
+# (or (not NTG) (not QG))
+
+-NTG -QG
+
+# (or (not QG) (not NSWG))
+
+-QG -NSWG
+
+# (or (not NSWG) (not VG))
+
+-NSWG -VG
+

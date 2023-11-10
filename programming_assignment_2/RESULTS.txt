@@ -1,0 +1,11 @@
+                                    command-line                                         output                              DPLL calls (w/o UCH)        DPLL calls (w/ UCH)
+mapcolor                     python3 DPLL.py mapcolor.cnf                        SAR WAG NTB TR QG NSWB VG                            37                        51
+mapcolor2                   python3 DPLL.py mapcolor.cnf QB                      SAR WAB NTG TR QB NSWG VB                            45                        78
+sammy_scenarioA    python3 DPLL.py sammy.cnf O1Y O2W O3Y L1W L2Y L3B    O1Y C1Y O2Y C2B O2W O3W C3W L1W L1B L2Y L2W L3Y L3B           218                       401
+sammy_scenarioB    python3 DPLL.py sammy.cnf O1W O2Y O3W L1W L2B L3B    O1Y C1B O1W O2Y C2Y O3W C3W L1Y L1W L2W L2B L3Y L3B           453                       894
+3queens                       python3 DPLL.py 3queens.cnf                   No solution found (UNSATISFIABLE)                         N/A                       N/A
+4queens                       python3 DPLL.py 4queens.cnf                           Q12 Q24 Q31 Q43                                   74                        110
+5queens                       python3 DPLL.py 5queens.cnf                          Q11 Q23 Q35 Q42 Q54                                47                         71
+6queens                       python3 DPLL.py 6queens.cnf                       Q12 Q24 Q36 Q41 Q53 Q65                               488                       1017
+
+* I can tell that my UCH is not working as expected, but unfortunately I could not figure it out.

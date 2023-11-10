@@ -1,0 +1,4442 @@
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { Q11: 0 Q12: 0 Q13: 0 Q14: 0 Q15: 0 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q11=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: 0 Q13: 0 Q14: 0 Q15: 0 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: 0 Q14: 0 Q15: 0 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: 0 Q15: 0 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q14=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q14=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: 0 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q15=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q15=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: 0 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q16=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q16=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: 0 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q21=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q21=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q24=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q24=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q25=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q25=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q36=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: 1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q24=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q25=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q25=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q36=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: 1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q24=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q25=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q36=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: 1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q25=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q26=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: 1 Q33: -1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q36=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: 1 Q12: -1 Q13: -1 Q14: -1 Q15: -1 Q16: -1 Q21: -1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q11=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q21=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: 0 Q13: 0 Q14: 0 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q12=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q12=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 0 Q14: 0 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q13=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: 0 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q14=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q14=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q15=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q15=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q16=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q16=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q24=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q24=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q25=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q25=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q36=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: 1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: 1 Q14: -1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: -1 Q36: 1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q13=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 0 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q14=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: 0 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q15=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q15=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: 0 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q16=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q16=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: 0 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q22=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q22=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: 0 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q23=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q23=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: 0 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q24=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q24=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: 0 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q25=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q25=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: 0 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q26=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q26=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q31=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: 0 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q31=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q31=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: 0 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q32=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q32=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 0 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q33=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q35=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q42=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: 1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q46=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q63=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: 1 Q53: -1 Q54: -1 Q55: -1 Q56: -1 Q61: -1 Q62: -1 Q63: -1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: 1 Q34: -1 Q35: -1 Q36: -1 Q41: -1 Q42: -1 Q43: -1 Q44: -1 Q45: -1 Q46: 1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q56=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q33=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: 0 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q34=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q34=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 0 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q35=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: 0 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q36=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q36=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q41=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: 0 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q41=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q41=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 0 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q42=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: 0 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q43=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q43=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: 0 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q44=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q44=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: 0 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q45=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q45=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: 0 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q46=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q46=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q51=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: 0 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q51=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q51=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: 0 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q52=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q52=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: 0 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q53=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q53=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: 0 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q54=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q54=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: 0 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q55=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q55=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q56=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 0 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q56=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q61=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: 0 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q61=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q61=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: -1 Q62: 0 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q62=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q62=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: -1 Q62: -1 Q63: 0 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q63=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: -1 Q62: -1 Q63: 1 Q64: 0 Q65: 0 Q66: 0 }
+choice point
+trying Q64=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q64=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: -1 Q62: -1 Q63: 1 Q64: -1 Q65: 0 Q66: 0 }
+choice point
+trying Q65=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q65=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing Q66=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { Q11: -1 Q12: -1 Q13: -1 Q14: 1 Q15: -1 Q16: -1 Q21: 1 Q22: -1 Q23: -1 Q24: -1 Q25: -1 Q26: -1 Q31: -1 Q32: -1 Q33: -1 Q34: -1 Q35: 1 Q36: -1 Q41: -1 Q42: 1 Q43: -1 Q44: -1 Q45: -1 Q46: -1 Q51: -1 Q52: -1 Q53: -1 Q54: -1 Q55: -1 Q56: 1 Q61: -1 Q62: -1 Q63: 1 Q64: -1 Q65: -1 Q66: 0 }
+choice point
+trying Q66=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying Q66=F
+backtracking
+-------------
+solution:
+Q11: -1
+Q12: -1
+Q13: -1
+Q14: 1
+Q15: -1
+Q16: -1
+Q21: 1
+Q22: -1
+Q23: -1
+Q24: -1
+Q25: -1
+Q26: -1
+Q31: -1
+Q32: -1
+Q33: -1
+Q34: -1
+Q35: 1
+Q36: -1
+Q41: -1
+Q42: 1
+Q43: -1
+Q44: -1
+Q45: -1
+Q46: -1
+Q51: -1
+Q52: -1
+Q53: -1
+Q54: -1
+Q55: -1
+Q56: 1
+Q61: -1
+Q62: -1
+Q63: 1
+Q64: -1
+Q65: -1
+Q66: -1
+just the satisfied (true) propositions:
+Q14 Q21 Q35 Q42 Q56 Q63
+DPLL calls = 1017
+UCH=True

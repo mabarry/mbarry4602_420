@@ -1,0 +1,355 @@
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: 0 SAG: 0 SAR: 0 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 0 WAR: 0 }
+choice point
+trying SAR=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: 0 SAG: 0 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 0 WAR: 0 }
+choice point
+trying SAG=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying SAG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing SAB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: 0 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 0 WAR: 0 }
+choice point
+trying SAB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying SAB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 0 WAR: 0 }
+choice point
+trying WAR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying WAR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing WAG=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing WAB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 1 WAR: -1 }
+choice point
+trying WAB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying WAB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTG=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTG=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: -1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTB=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 0 WAR: -1 }
+choice point
+trying WAG=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing WAB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: 1 WAR: -1 }
+choice point
+trying WAB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying WAB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTG=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTG=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: -1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: -1 WAG: 1 WAR: -1 }
+choice point
+trying NTB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTB=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying WAG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing WAB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 0 WAG: -1 WAR: -1 }
+choice point
+trying WAB=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 0 NTR: 0 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying NTR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTG=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NTB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: 0 NTG: 1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying NTB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NTB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 0 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying TR=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: 0 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying TG=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying TG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: 0 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying TB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying TB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: 0 QR: 0 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying QR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying QR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing QG=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NSWR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying QB=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NSWR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 0 NSWR: 0 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying NSWR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NSWR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NSWG=1 by uch
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing NSWB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: 0 NSWG: 1 NSWR: -1 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying NSWB=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying NSWB=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing VR=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: -1 NSWG: 1 NSWR: -1 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: 0 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying VR=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying VR=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing VG=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: -1 NSWG: 1 NSWR: -1 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: 0 VR: -1 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying VG=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying VG=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+forcing VB=1 by uch
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+model: { NSWB: -1 NSWG: 1 NSWR: -1 NTB: -1 NTG: 1 NTR: -1 QB: 1 QG: -1 QR: -1 SAB: -1 SAG: -1 SAR: 1 TB: -1 TG: -1 TR: 1 VB: 0 VG: -1 VR: -1 WAB: 1 WAG: -1 WAR: -1 }
+choice point
+trying VB=T
+backtracking
+-------------
+solution:
+NSWB: -1
+NSWG: 1
+NSWR: -1
+NTB: -1
+NTG: 1
+NTR: -1
+QB: 1
+QG: -1
+QR: -1
+SAB: -1
+SAG: -1
+SAR: 1
+TB: -1
+TG: -1
+TR: 1
+VB: 1
+VG: -1
+VR: -1
+WAB: 1
+WAG: -1
+WAR: -1
+just the satisfied (true) propositions:
+SAR WAB NTG TR QB NSWG VB
+DPLL calls = 78
+UCH=True

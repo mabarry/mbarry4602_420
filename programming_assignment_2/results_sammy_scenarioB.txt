@@ -1,0 +1,2068 @@
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 0 C1W: 0 C1Y: 0 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 0 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O1Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 0 C1W: 0 C1Y: 0 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 0 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O1W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O1W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: 0 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: 0 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 0 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: 1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 0 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: -1 C1W: -1 C1Y: 1 C2B: -1 C2W: 1 C2Y: -1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: -1 O1Y: 1 O2W: -1 O2Y: -1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 0 C1W: 0 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: 0 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O1W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: 0 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: 0 C2W: 0 C2Y: 0 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: 0 C2W: 0 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 0 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 0 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 0 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: 1 O2Y: 1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 0 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: 1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: -1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3W=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 0 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: 1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: 0 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: 0 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying O3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying O3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 0 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 0 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L1Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C1Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L1W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C1W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C1W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: 0 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L1B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying L1B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C1B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: 0 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L2Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying L2Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C2Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 0 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L2W=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C2W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2W=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L2B=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C2B=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C2B=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 0 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L3Y=T
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 1 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying C3Y=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying C3Y=F
+All clauses NOT TRUE
+NO CLAUSES FALSE
+model: { C1B: 1 C1W: -1 C1Y: -1 C2B: -1 C2W: -1 C2Y: 1 C3B: -1 C3W: 1 C3Y: -1 L1B: -1 L1W: 1 L1Y: 1 L2B: 1 L2W: 1 L2Y: -1 L3B: 1 L3W: 0 L3Y: 1 O1W: 1 O1Y: 1 O2W: -1 O2Y: 1 O3W: 1 O3Y: -1 }
+choice point
+trying L3W=T
+All clauses NOT TRUE
+SOME CLAUSES FALSE
+backtracking
+trying L3W=F
+backtracking
+-------------
+solution:
+C1B: 1
+C1W: -1
+C1Y: -1
+C2B: -1
+C2W: -1
+C2Y: 1
+C3B: -1
+C3W: 1
+C3Y: -1
+L1B: -1
+L1W: 1
+L1Y: 1
+L2B: 1
+L2W: 1
+L2Y: -1
+L3B: 1
+L3W: -1
+L3Y: 1
+O1W: 1
+O1Y: 1
+O2W: -1
+O2Y: 1
+O3W: 1
+O3Y: -1
+just the satisfied (true) propositions:
+O1Y C1B O1W O2Y C2Y O3W C3W L1Y L1W L2W L2B L3Y L3B
+DPLL calls = 453
+UCH=False
