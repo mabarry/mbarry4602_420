@@ -174,6 +174,29 @@ C = 1
 
 yes
 
+% Explanation: The goal is to generate all possible combinations of A, B, and C where each can be either 0 or 1.
+
+%   When querying octal_code(A, B, C), Prolog starts by trying to satisfy the goals in the predicate. It first sees bit(A), which means A should be either 0 or 1. Prolog will try both possibilities:
+
+%   First Attempt: A = 0
+
+%   Prolog moves on to the next goal, which is bit(B). It tries both possibilities for B (0 and 1).
+%   First Sub-Attempt: B = 0
+
+%   Prolog moves on again to the final goal, which is bit(C). It tries both possibilities for C.
+%   Final Sub-Sub-Attempt: C = 0
+
+%   Prolog satisfies all goals and prints the result.
+
+%   Backtrack: Prolog backtracks to the previous sub-goal (bit(C)), and it tries the next possibility (C = 1), which then satisfies all goals and prints the result.
+%   Backtrack: Prolog backtracks to the previous sub-goal (bit(B)), and it tries the next possibility (B = 1).
+%   The process repeats until all combinations are explored.
+%   ------
+%   Second Attempt: A = 1
+
+%   Like with the first attempt, Prolog explores all possibilities for B and C under the condition that A = 1.
+%   This process continues until all possible combinations are generated.
+
 
 5.
 ?- mapcolor(WA,NT,SA,Q,NSW,V,T).
